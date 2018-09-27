@@ -21,9 +21,10 @@
   <a href="https://travis-ci.org/gicentre/prettier-plugin-elm">
     <img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/kachkaev/prettier-plugin-elm/master.svg?style=flat-square&amp;label=AppVeyor"><!--
   --></a>
-  <a href="https://codeclimate.com/github/gicentre/prettier-plugin-elm">
-    <img alt="test coverage" src="https://img.shields.io/codeclimate/coverage/github/gicentre/prettier-plugin-elm.svg?style=flat-square"><!--
-  --></a>
+ 
+  
+  <a href="https://codeclimate.com/github/efueger/prettier-plugin-elm/test_coverage"><img src="https://api.codeclimate.com/v1/badges/7ae99e277af02206ccc4/test_coverage" /></a>
+  
   <!-- <a href="https://www.npmjs.com/package/prettier-plugin-elm">
     <img alt="monthly downloads" src="https://img.shields.io/npm/dm/prettier-plugin-elm.svg?style=flat-square"><!--
    -></a> -->
