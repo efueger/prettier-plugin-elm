@@ -23,7 +23,8 @@
   --></a>
  
   
-  <a href="https://codeclimate.com/github/efueger/prettier-plugin-elm/test_coverage"><img src="https://api.codeclimate.com/v1/badges/7ae99e277af02206ccc4/test_coverage" /></a>
+  <a href="https://codeclimate.com/github/efueger/prettier-plugin-elm/test_coverage">
+  <img src="https://api.codeclimate.com/v1/badges/7ae99e277af02206ccc4/test_coverage"><!--></a>
   
   <!-- <a href="https://www.npmjs.com/package/prettier-plugin-elm">
     <img alt="monthly downloads" src="https://img.shields.io/npm/dm/prettier-plugin-elm.svg?style=flat-square"><!--
